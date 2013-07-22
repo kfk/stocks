@@ -4,3 +4,9 @@ This is a little flask application to show the power of a restful interface. The
 
 
 Please, read the code to understand how this works.
+
+To run:
+
+pip install -r requirements.txt
+python run.py
+go to http://127.0.0.1:5000/
